@@ -1,5 +1,6 @@
 # Projetos_Python
 Alguns projetos pessoais desenvolvidos em Python
+
 \\==Hangman==//
 Jogo de forca que utiliza palavras escolhidas previamente de forma aleatória, o jogador pode cometer até 6 erros. Inclui verificação de palavras com letras duplicadas.
 
